@@ -1,0 +1,46 @@
+.button-17 {
+  border-color: #f1c40f;
+  align-items: center;
+  appearance: none;
+  background-color: inherit;
+  border-radius: 10px;
+  cursor: pointer;
+  display: inline-flex;
+  font-weight: 500;
+  height: 48px;
+  justify-content: center;
+  padding: 2px 24px;
+  width: 100%;
+  color: #fff;
+  font-size: 1rem;
+  position: relative;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  transition: background 300ms ease-in-out;
+}
+
+.button-17:hover {
+  background: #f1c40f;
+  color: #2D2747;
+}
+
+.button-17:active {
+  outline: none;
+}
+
+.button-17:focus {
+  outline: none;
+}
+
+.modal-content{
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+  background: rgba(255,255,255,0.9);
+}
+.add-friend{
+  display: inline-block;
+  width: 100%;
+}
+.modal-sm{
+  max-width: 400px;
+}
